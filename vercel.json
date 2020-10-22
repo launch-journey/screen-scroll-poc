@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/frames/(.*)",
+      "headers": { "cache-control": "s-maxage=604800" },
+      "dest": "/frames/$1"
+    }
+  ]
+}
