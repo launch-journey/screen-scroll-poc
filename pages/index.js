@@ -71,7 +71,7 @@ export default function Home({frames}) {
     <div className={styles.container}>
       <Head>
         <title>screen-scroll-poc</title>
-        <meta name="description" content="Free Web tutorials" />
+        <meta name="description" content="Demonstration Site for screen-scroll-poc" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
