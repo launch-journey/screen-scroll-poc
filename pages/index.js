@@ -70,7 +70,8 @@ export default function Home({frames}) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>screen-scroll-poc</title>
+          <description>example of image based scrolling experience</description>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
