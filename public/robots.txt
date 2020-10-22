@@ -1,0 +1,2 @@
+pwUser-agent: *
+Disallow: /
