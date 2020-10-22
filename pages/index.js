@@ -71,7 +71,7 @@ export default function Home({frames}) {
     <div className={styles.container}>
       <Head>
         <title>screen-scroll-poc</title>
-          <description>example of image based scrolling experience</description>
+        <meta name="description" content="Free Web tutorials" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
